@@ -1,0 +1,17 @@
+{
+ "n_big": 9,
+ "n_far": 4,
+ "overlap": 0,
+ "p_no_overlap": 0.4047246989613016,
+ "n_within2": 30,
+ "big_within2": 7,
+ "p_big_within2": 0.3197283551202331,
+ "n_within15": 23,
+ "big_within15": 6,
+ "p_big_within15": 0.2295475369780531,
+ "road_n_big": 6,
+ "road_n_far": 4,
+ "road_p_no_overlap": 0.48716385558490816,
+ "big_from_qnb": 3,
+ "big_154": true
+}

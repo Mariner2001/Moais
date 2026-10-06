@@ -1,0 +1,7 @@
+statistic,label,published,supp_text,D84,D62,crit_ceremonial,crit_failure
+CV,CV of spacings,2.696,1.749,2.6957780510873315,2.2990525577180247,$<0.5$,$>1.0$
+KS_p,KS $p$ vs.\ uniform,9.65e-20,,9.647666276120815e-20,1.3531900662995517e-11,$>0.05$,$<0.05$
+NN,Nearest-neighbour ratio (1-D),0.804,0.82,0.8041076976182256,0.7893217098778025,$>1.2$,$\leq 1.2$
+viewshed,Viewshed density ratio,1.054,0.871,1.0541964285714285,1.5235026890982002,$>1.5$,$\approx 1.0$
+VMR,Variance/mean of bin counts,8.97,6.41,8.968944099378882,4.272089761570827,$<1.5$,$>3.0$
+R2,$R^2$ of log-linear fit,0.524,0.641,0.5241573288288587,0.43703153591659555,poor fit,0.4--0.7

@@ -1,0 +1,7 @@
+{
+ "n_cens": 450,
+ "median_cens": 5.7389268253901005,
+ "mean_cens": 6.906340882015099,
+ "p_deliver_median_if_const_0p5": 0.05672935866805985,
+ "p_deliver_10km_if_const_0p5": 0.006737946999085467
+}
