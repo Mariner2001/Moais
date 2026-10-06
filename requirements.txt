@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+statsmodels>=0.14
+openpyxl>=3.1   # only needed by code/prepare_data.py (reads the original .xlsx files)
+pillow>=10      # optional, PNG previews
